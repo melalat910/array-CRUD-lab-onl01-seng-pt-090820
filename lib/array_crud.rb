@@ -4,8 +4,8 @@ end
 
 def create_an_array
  create_an_array = ["lil bub"]
- create_an_array = ["grumpy cat"] 
- create_an_array = ["pasheen"] 
+ create_an_array = ["grumpy cat"]
+ create_an_array = ["pasheen"]
  create_an_array = ["garfield"]
  create_an_array = ["nala cat"]
 end
